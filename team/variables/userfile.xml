@@ -1,0 +1,5 @@
+<variable-file delimiters="," filename="D:/Workspace/Neoload/user.csv" name="userfile" offset="1" order="3" policy="5" range="1" uid="ec9146f2-f97f-41aa-977b-e1276995bffc" useFirstLine="true" whenOutOfValues="CYCLE_VALUES">
+<column name="name" number="2"/>
+<column name="password" number="1"/>
+<column name="username" number="0"/>
+</variable-file>

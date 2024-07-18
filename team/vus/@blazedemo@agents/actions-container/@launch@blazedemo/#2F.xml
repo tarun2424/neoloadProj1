@@ -1,0 +1,259 @@
+<http-page executeResourcesDynamically="false"
+    forceEncodingForDynamicResources="false" name="/"
+    playRequestsSequentially="false"
+    recordedArtifactZipFileName="team/vus/@blazedemo@agents/%resources%/recorded-artifacts/1a81a4a8-9642-4eee-bf98-17c72aa4ce61.zip"
+    slaProfileEnabled="false" thinkTime="0"
+    thinkTimeMode="MODE_SIMPLE_THINK_TIME" thinkTimeRangeEnd=""
+    thinkTimeRangeStart="" uid="1a81a4a8-9642-4eee-bf98-17c72aa4ce61">
+    <embedded-action>f312fa81-99cc-4260-b8a6-9934933eaa75</embedded-action>
+    <embedded-action>e19f9e5d-9f26-490a-bcd6-792c04144507</embedded-action>
+    <embedded-action>86f83577-55f9-4c16-b202-b53ff21dde62</embedded-action>
+    <embedded-action>b4f441bc-e7bc-4c54-8ea1-dd7b17d6b828</embedded-action>
+    <embedded-action>5c0b8ff6-ae8a-43b0-a4ca-b373717ab4bc</embedded-action>
+    <embedded-action>f23d6602-4a2f-48ba-a85c-cdfd52ea7ca6</embedded-action>
+    <screenshotFileDescription>recorded-screenshots/sc_1f44a557-5730-4156-9f5c-56dbf0520d98.jpg</screenshotFileDescription>
+</http-page>
+<http-action actionType="1" contentType="text/html; charset=UTF-8"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET" name="/" path="/" postType="6"
+    recordedArtifactZipFileName="team/vus/@blazedemo@agents/%resources%/recorded-artifacts/1a81a4a8-9642-4eee-bf98-17c72aa4ce61.zip"
+    recordedResponseCode="200" responseSize="4474"
+    serverUid="blazedemo.com" slaProfileEnabled="false"
+    uid="f312fa81-99cc-4260-b8a6-9934933eaa75" useKeepAlive="false">
+    <responsePageFileDescription>recorded-responses/res_3c146595-f9e9-4544-8ce0-16bb5db89bfc.html</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_3c146595-f9e9-4544-8ce0-16bb5db89bfc.txt</requestContentFileDescription>
+    <header name="sec-fetch-mode" value="navigate"/>
+    <header name="sec-fetch-site" value="none"/>
+    <header name="cookie" value="keen={%22uuid%22:%22f1b7a8f0-ed8e-4793-98b6-01d0cac3b45f%22%2C%22initialReferrer%22:%22https://blazedemo.com/%22}"/>
+    <header name="accept-language" value="en-US,en;q=0.9"/>
+    <header name="dnt" value="1"/>
+    <header name="priority" value="u=0, i"/>
+    <header name="sec-fetch-user" value="?1"/>
+    <header name="accept" value="text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7"/>
+    <header name="sec-ch-ua" value="&quot;Not/A)Brand&quot;;v=&quot;8&quot;, &quot;Chromium&quot;;v=&quot;126&quot;, &quot;Google Chrome&quot;;v=&quot;126&quot;"/>
+    <header name="sec-ch-ua-mobile" value="?0"/>
+    <header name="sec-ch-ua-platform" value="&quot;Windows&quot;"/>
+    <header name="upgrade-insecure-requests" value="1"/>
+    <header name="accept-encoding" value="gzip, deflate, br, zstd"/>
+    <header name="sec-fetch-dest" value="document"/>
+    <header name="user-agent" value="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"/>
+    <responseHeaders>HTTP/2.0 200&#xd;
+x-powered-by: PHP/7.4.30&#xd;
+cache-control: no-cache, private&#xd;
+vary: Accept-Encoding&#xd;
+content-type: text/html; charset=UTF-8&#xd;
+content-encoding: gzip&#xd;
+x-cloud-trace-context: cf92e1984fab05f98a9499a56df2f6ad&#xd;
+date: Mon, 15 Jul 2024 06:52:18 GMT&#xd;
+server: Google Frontend&#xd;
+content-length: 1834</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>
+<http-action actionType="1" contentType="application/javascript"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET" name="/assets/bootstrap.min.js"
+    path="/assets/bootstrap.min.js" postType="6"
+    recordedArtifactZipFileName="team/vus/@blazedemo@agents/%resources%/recorded-artifacts/1a81a4a8-9642-4eee-bf98-17c72aa4ce61.zip"
+    recordedResponseCode="200"
+    refererUid="f312fa81-99cc-4260-b8a6-9934933eaa75"
+    responseSize="28663" serverUid="blazedemo.com"
+    slaProfileEnabled="false" uid="e19f9e5d-9f26-490a-bcd6-792c04144507" useKeepAlive="false">
+    <responsePageFileDescription>recorded-responses/res_88f32f7f-3dbd-4659-b891-e0f9533f9e45</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_88f32f7f-3dbd-4659-b891-e0f9533f9e45.txt</requestContentFileDescription>
+    <header name="sec-fetch-mode" value="no-cors"/>
+    <header name="referer" value="https://blazedemo.com/"/>
+    <header name="sec-fetch-site" value="same-origin"/>
+    <header name="cookie" value="keen={%22uuid%22:%22f1b7a8f0-ed8e-4793-98b6-01d0cac3b45f%22%2C%22initialReferrer%22:%22https://blazedemo.com/%22}"/>
+    <header name="accept-language" value="en-US,en;q=0.9"/>
+    <header name="dnt" value="1"/>
+    <header name="priority" value="u=1"/>
+    <header name="accept" value="*/*"/>
+    <header name="sec-ch-ua" value="&quot;Not/A)Brand&quot;;v=&quot;8&quot;, &quot;Chromium&quot;;v=&quot;126&quot;, &quot;Google Chrome&quot;;v=&quot;126&quot;"/>
+    <header name="sec-ch-ua-mobile" value="?0"/>
+    <header name="sec-ch-ua-platform" value="&quot;Windows&quot;"/>
+    <header name="accept-encoding" value="gzip, deflate, br, zstd"/>
+    <header name="sec-fetch-dest" value="script"/>
+    <header name="user-agent" value="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"/>
+    <responseHeaders>HTTP/2.0 200&#xd;
+last-modified: Tue, 30 Aug 2022 14:26:12 GMT&#xd;
+etag: "6ff7-5e77629808900-gzip"&#xd;
+accept-ranges: bytes&#xd;
+vary: Accept-Encoding&#xd;
+content-type: application/javascript&#xd;
+content-encoding: gzip&#xd;
+x-cloud-trace-context: 85e80828d62d538f48855f719cc11c1f&#xd;
+date: Mon, 15 Jul 2024 06:52:18 GMT&#xd;
+server: Google Frontend&#xd;
+cache-control: private&#xd;
+content-length: 7611</responseHeaders>
+    <record-html-infos extractorContent="" extractorOccurence="2"
+        extractorRegExp="false" htmlType="1"/>
+</http-action>
+<http-action actionType="1" contentType="application/javascript"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET" name="/assets/bootstrap-table.js"
+    path="/assets/bootstrap-table.js" postType="6"
+    recordedArtifactZipFileName="team/vus/@blazedemo@agents/%resources%/recorded-artifacts/1a81a4a8-9642-4eee-bf98-17c72aa4ce61.zip"
+    recordedResponseCode="200"
+    refererUid="f312fa81-99cc-4260-b8a6-9934933eaa75"
+    responseSize="39170" serverUid="blazedemo.com"
+    slaProfileEnabled="false" uid="86f83577-55f9-4c16-b202-b53ff21dde62" useKeepAlive="false">
+    <responsePageFileDescription>recorded-responses/res_eedfcb58-7ee0-45fe-9c00-c2cf036c3a9d</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_eedfcb58-7ee0-45fe-9c00-c2cf036c3a9d.txt</requestContentFileDescription>
+    <header name="sec-fetch-mode" value="no-cors"/>
+    <header name="referer" value="https://blazedemo.com/"/>
+    <header name="sec-fetch-site" value="same-origin"/>
+    <header name="cookie" value="keen={%22uuid%22:%22f1b7a8f0-ed8e-4793-98b6-01d0cac3b45f%22%2C%22initialReferrer%22:%22https://blazedemo.com/%22}"/>
+    <header name="accept-language" value="en-US,en;q=0.9"/>
+    <header name="dnt" value="1"/>
+    <header name="priority" value="u=1"/>
+    <header name="accept" value="*/*"/>
+    <header name="sec-ch-ua" value="&quot;Not/A)Brand&quot;;v=&quot;8&quot;, &quot;Chromium&quot;;v=&quot;126&quot;, &quot;Google Chrome&quot;;v=&quot;126&quot;"/>
+    <header name="sec-ch-ua-mobile" value="?0"/>
+    <header name="sec-ch-ua-platform" value="&quot;Windows&quot;"/>
+    <header name="accept-encoding" value="gzip, deflate, br, zstd"/>
+    <header name="sec-fetch-dest" value="script"/>
+    <header name="user-agent" value="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"/>
+    <responseHeaders>HTTP/2.0 200&#xd;
+last-modified: Tue, 30 Aug 2022 14:26:12 GMT&#xd;
+etag: "9902-5e77629808900-gzip"&#xd;
+accept-ranges: bytes&#xd;
+vary: Accept-Encoding&#xd;
+content-type: application/javascript&#xd;
+content-encoding: gzip&#xd;
+x-cloud-trace-context: a572cde5c1cc3be1d049f35ff158b657&#xd;
+date: Mon, 15 Jul 2024 06:52:19 GMT&#xd;
+server: Google Frontend&#xd;
+cache-control: private&#xd;
+content-length: 8241</responseHeaders>
+    <record-html-infos extractorContent="" extractorOccurence="3"
+        extractorRegExp="false" htmlType="1"/>
+</http-action>
+<http-action actionType="1" contentType="text/css"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET" name="/assets/bootstrap.min.css"
+    path="/assets/bootstrap.min.css" postType="6"
+    recordedArtifactZipFileName="team/vus/@blazedemo@agents/%resources%/recorded-artifacts/1a81a4a8-9642-4eee-bf98-17c72aa4ce61.zip"
+    recordedResponseCode="200" responseSize="126461"
+    serverUid="blazedemo.com" slaProfileEnabled="false"
+    uid="b4f441bc-e7bc-4c54-8ea1-dd7b17d6b828" useKeepAlive="false">
+    <responsePageFileDescription>recorded-responses/res_4522a761-24a0-416a-a0d4-1827f7f40514.css</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_4522a761-24a0-416a-a0d4-1827f7f40514.txt</requestContentFileDescription>
+    <header name="sec-fetch-mode" value="no-cors"/>
+    <header name="referer" value="https://blazedemo.com/"/>
+    <header name="sec-fetch-site" value="same-origin"/>
+    <header name="cookie" value="keen={%22uuid%22:%22f1b7a8f0-ed8e-4793-98b6-01d0cac3b45f%22%2C%22initialReferrer%22:%22https://blazedemo.com/%22}"/>
+    <header name="accept-language" value="en-US,en;q=0.9"/>
+    <header name="dnt" value="1"/>
+    <header name="priority" value="u=0"/>
+    <header name="accept" value="text/css,*/*;q=0.1"/>
+    <header name="sec-ch-ua" value="&quot;Not/A)Brand&quot;;v=&quot;8&quot;, &quot;Chromium&quot;;v=&quot;126&quot;, &quot;Google Chrome&quot;;v=&quot;126&quot;"/>
+    <header name="sec-ch-ua-mobile" value="?0"/>
+    <header name="sec-ch-ua-platform" value="&quot;Windows&quot;"/>
+    <header name="accept-encoding" value="gzip, deflate, br, zstd"/>
+    <header name="sec-fetch-dest" value="style"/>
+    <header name="user-agent" value="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"/>
+    <responseHeaders>HTTP/2.0 200&#xd;
+last-modified: Tue, 30 Aug 2022 14:26:12 GMT&#xd;
+etag: "1edfd-5e77629808900-gzip"&#xd;
+accept-ranges: bytes&#xd;
+vary: Accept-Encoding&#xd;
+content-type: text/css&#xd;
+content-encoding: gzip&#xd;
+x-cloud-trace-context: 5640f29b5692165b6edf331bba94cc25;o=1&#xd;
+date: Mon, 15 Jul 2024 06:52:19 GMT&#xd;
+server: Google Frontend&#xd;
+cache-control: private&#xd;
+content-length: 20845</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>
+<http-action actionType="1" contentType="text/css"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET" name="/assets/bootstrap-table.css"
+    path="/assets/bootstrap-table.css" postType="6"
+    recordedArtifactZipFileName="team/vus/@blazedemo@agents/%resources%/recorded-artifacts/1a81a4a8-9642-4eee-bf98-17c72aa4ce61.zip"
+    recordedResponseCode="200" responseSize="3765"
+    serverUid="blazedemo.com" slaProfileEnabled="false"
+    uid="5c0b8ff6-ae8a-43b0-a4ca-b373717ab4bc" useKeepAlive="false">
+    <responsePageFileDescription>recorded-responses/res_feb45911-2a89-4f0e-870d-7bd1f3dffc7f.css</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_feb45911-2a89-4f0e-870d-7bd1f3dffc7f.txt</requestContentFileDescription>
+    <header name="sec-fetch-mode" value="no-cors"/>
+    <header name="referer" value="https://blazedemo.com/"/>
+    <header name="sec-fetch-site" value="same-origin"/>
+    <header name="cookie" value="keen={%22uuid%22:%22f1b7a8f0-ed8e-4793-98b6-01d0cac3b45f%22%2C%22initialReferrer%22:%22https://blazedemo.com/%22}"/>
+    <header name="accept-language" value="en-US,en;q=0.9"/>
+    <header name="dnt" value="1"/>
+    <header name="priority" value="u=0"/>
+    <header name="accept" value="text/css,*/*;q=0.1"/>
+    <header name="sec-ch-ua" value="&quot;Not/A)Brand&quot;;v=&quot;8&quot;, &quot;Chromium&quot;;v=&quot;126&quot;, &quot;Google Chrome&quot;;v=&quot;126&quot;"/>
+    <header name="sec-ch-ua-mobile" value="?0"/>
+    <header name="sec-ch-ua-platform" value="&quot;Windows&quot;"/>
+    <header name="accept-encoding" value="gzip, deflate, br, zstd"/>
+    <header name="sec-fetch-dest" value="style"/>
+    <header name="user-agent" value="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"/>
+    <responseHeaders>HTTP/2.0 200&#xd;
+last-modified: Tue, 30 Aug 2022 14:26:12 GMT&#xd;
+etag: "eb5-5e77629808900-gzip"&#xd;
+accept-ranges: bytes&#xd;
+vary: Accept-Encoding&#xd;
+content-type: text/css&#xd;
+content-encoding: gzip&#xd;
+x-cloud-trace-context: 0b62e842be6cb30a0468a163fbc6b00f&#xd;
+date: Mon, 15 Jul 2024 06:52:19 GMT&#xd;
+server: Google Frontend&#xd;
+cache-control: private&#xd;
+content-length: 1008</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>
+<http-action actionType="1" contentType="image/vnd.microsoft.icon"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET" name="/favicon.ico" path="/favicon.ico" postType="6"
+    recordedArtifactZipFileName="team/vus/@blazedemo@agents/%resources%/recorded-artifacts/1a81a4a8-9642-4eee-bf98-17c72aa4ce61.zip"
+    recordedResponseCode="200" responseSize="0"
+    serverUid="blazedemo.com" slaProfileEnabled="false"
+    uid="f23d6602-4a2f-48ba-a85c-cdfd52ea7ca6" useKeepAlive="false">
+    <responsePageFileDescription>recorded-responses/res_f23d6602-4a2f-48ba-a85c-cdfd52ea7ca6</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_5d275fe2-6813-4788-8019-4d8bc3624957.txt</requestContentFileDescription>
+    <header name="sec-fetch-mode" value="no-cors"/>
+    <header name="referer" value="https://blazedemo.com/"/>
+    <header name="sec-fetch-site" value="same-origin"/>
+    <header name="cookie" value="keen={%22uuid%22:%22f1b7a8f0-ed8e-4793-98b6-01d0cac3b45f%22%2C%22initialReferrer%22:%22https://blazedemo.com/%22}; prodperfect_session={%22session_uuid%22:%22c1732178-38da-4a57-bd3f-b0e716ffd320%22}"/>
+    <header name="accept-language" value="en-US,en;q=0.9"/>
+    <header name="dnt" value="1"/>
+    <header name="priority" value="u=1, i"/>
+    <header name="accept" value="image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8"/>
+    <header name="sec-ch-ua" value="&quot;Not/A)Brand&quot;;v=&quot;8&quot;, &quot;Chromium&quot;;v=&quot;126&quot;, &quot;Google Chrome&quot;;v=&quot;126&quot;"/>
+    <header name="sec-ch-ua-mobile" value="?0"/>
+    <header name="sec-ch-ua-platform" value="&quot;Windows&quot;"/>
+    <header name="accept-encoding" value="gzip, deflate, br, zstd"/>
+    <header name="sec-fetch-dest" value="image"/>
+    <header name="user-agent" value="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"/>
+    <responseHeaders>HTTP/2.0 200&#xd;
+last-modified: Tue, 30 Aug 2022 14:26:12 GMT&#xd;
+etag: "0-5e77629808900"&#xd;
+accept-ranges: bytes&#xd;
+content-type: image/vnd.microsoft.icon&#xd;
+x-cloud-trace-context: deee6c873a3d82536eba004d07dbe8b6;o=1&#xd;
+date: Mon, 15 Jul 2024 06:52:22 GMT&#xd;
+server: Google Frontend&#xd;
+Content-Length: 0</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>

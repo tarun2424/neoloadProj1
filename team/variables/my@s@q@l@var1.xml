@@ -1,0 +1,3 @@
+<variable-sql delimiters=";" filename="SqlTemp/mySQLVar1.csv" name="mySQLVar1" offset="1" order="3" policy="5" query="SELECT * FROM LOGIN" range="1" uid="fe9c16e9-2083-4fbe-80d9-0d81dbef681d" useFirstLine="true" whenOutOfValues="CYCLE_VALUES">
+<sql-database-connection dbDriver="com.mysql.cj.jdbc.Driver" dbHost="localhost" dbLogin="root" dbName="emp" dbPassword="Ls8q035JLoVJsd4WMrryP4hQOVQKIosQdp4ouTQVTNHjZn5IF4EvaH3Oite4tKu/$3" dbPort="3306" dbProtocol="mysql://" manualMode="false" manualUrl=""/>
+</variable-sql>

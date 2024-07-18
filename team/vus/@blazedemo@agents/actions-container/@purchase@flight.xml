@@ -1,0 +1,6 @@
+<basic-logical-action-container element-number="1" execution-type="0"
+    name="PurchaseFlight" pacingEnd="0" pacingMode="MODE_NO_PACING"
+    pacingStart="0" pacingValue="0" slaProfileEnabled="false"
+    uid="732caf9a-19b3-459e-a73f-14dceac977bb" weightsEnabled="false">
+    <weighted-embedded-action uid="e395edc5-4950-4807-8d47-ba744c7433f2"/>
+</basic-logical-action-container>
